@@ -1,4 +1,4 @@
-# CUMCM2018
+# CUMCM
 > code for CUMCM 2018_B and 2019_C.  
 
 ## CUMCM 2018_B Algorithm used : greedy algorithm
